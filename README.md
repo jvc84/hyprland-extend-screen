@@ -1,6 +1,6 @@
 # Inspired 
 
-by [ linux-extend-screen ](https://github.com/santiagofdezg/linux-extend-screen)
+Inspired by [ linux-extend-screen ](https://github.com/santiagofdezg/linux-extend-screen)
 
 # Tutorial
 
