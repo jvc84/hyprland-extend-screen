@@ -1,4 +1,7 @@
-Inspired by [ linux-extended-screen ](https://github.com/santiagofdezg/linux-extend-screen)
+# Inspired 
+
+by [ linux-extend-screen ](https://github.com/santiagofdezg/linux-extend-screen)
+
 # Tutorial
 
 Do you have any old **Android tablet** at home? Then you have a new **second screen** for your laptop! With this tutorial you will be able to use any Android device to extend your screen on Linux. For this purpose we are going to use a wireless connection, but it can also be done through a [USB cable](#adb-support). The tutorial seems very long but it is because I will explain each step in detail so that anyone can follow it. 
